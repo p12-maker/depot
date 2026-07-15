@@ -5796,3 +5796,157 @@
 2026-07-15 22:17:28,666 [INFO] data refreshed #44054 interval=1.01s cpu=9 net_up=204231 net_down=15318
 2026-07-15 22:17:39,673 [INFO] data refreshed #44065 interval=1.01s cpu=15 net_up=193057 net_down=18535
 2026-07-15 22:17:50,666 [INFO] data refreshed #44076 interval=1.00s cpu=12 net_up=230620 net_down=16387
+2026-07-15 22:17:55,507 [INFO] force show hwnd=264792 visible=True rect=(1559,17,352,364)
+2026-07-15 22:18:00,673 [INFO] data refreshed #44086 interval=1.00s cpu=15 net_up=231720 net_down=17661
+2026-07-15 22:18:11,674 [INFO] data refreshed #44097 interval=1.01s cpu=10 net_up=230143 net_down=16191
+2026-07-15 22:18:21,690 [INFO] data refreshed #44107 interval=1.00s cpu=13 net_up=219574 net_down=12931
+2026-07-15 22:18:25,514 [INFO] force show hwnd=264792 visible=True rect=(1559,17,352,364)
+2026-07-15 22:18:31,691 [INFO] data refreshed #44117 interval=1.01s cpu=12 net_up=216521 net_down=12767
+2026-07-15 22:18:42,702 [INFO] data refreshed #44128 interval=1.01s cpu=9 net_up=214750 net_down=11421
+2026-07-15 22:18:53,698 [INFO] data refreshed #44139 interval=1.01s cpu=11 net_up=223614 net_down=16449
+2026-07-15 22:18:55,517 [INFO] force show hwnd=264792 visible=True rect=(1559,17,352,364)
+2026-07-15 22:19:04,699 [INFO] data refreshed #44150 interval=1.01s cpu=12 net_up=230597 net_down=20079
+2026-07-15 22:19:15,698 [INFO] data refreshed #44161 interval=1.01s cpu=12 net_up=238953 net_down=19960
+2026-07-15 22:19:25,531 [INFO] force show hwnd=264792 visible=True rect=(1559,17,352,364)
+2026-07-15 22:19:25,707 [INFO] data refreshed #44171 interval=1.00s cpu=10 net_up=232285 net_down=14993
+2026-07-15 22:19:35,726 [INFO] data refreshed #44181 interval=1.01s cpu=9 net_up=233992 net_down=17034
+2026-07-15 22:19:46,717 [INFO] data refreshed #44192 interval=0.99s cpu=11 net_up=216909 net_down=15393
+2026-07-15 22:19:56,717 [INFO] data refreshed #44202 interval=1.00s cpu=9 net_up=227527 net_down=12660
+2026-07-15 22:20:00,526 [INFO] force show hwnd=264792 visible=True rect=(1559,17,352,364)
+2026-07-15 22:20:07,725 [INFO] data refreshed #44213 interval=1.01s cpu=9 net_up=18687 net_down=12716
+2026-07-15 22:20:18,729 [INFO] data refreshed #44224 interval=1.01s cpu=11 net_up=230981 net_down=14761
+2026-07-15 22:20:29,725 [INFO] data refreshed #44235 interval=1.00s cpu=13 net_up=23091 net_down=18695
+2026-07-15 22:20:30,541 [INFO] force show hwnd=264792 visible=True rect=(1559,17,352,364)
+2026-07-15 22:20:40,727 [INFO] data refreshed #44246 interval=1.00s cpu=7 net_up=30895 net_down=19995
+2026-07-15 22:20:50,732 [INFO] data refreshed #44256 interval=0.99s cpu=10 net_up=22736 net_down=23430
+2026-07-15 22:21:00,755 [INFO] data refreshed #44266 interval=1.01s cpu=15 net_up=272621 net_down=18319
+2026-07-15 22:21:05,529 [INFO] force show hwnd=264792 visible=True rect=(1559,17,352,364)
+2026-07-15 22:21:11,746 [INFO] data refreshed #44277 interval=1.01s cpu=13 net_up=271942 net_down=20162
+2026-07-15 22:21:22,735 [INFO] data refreshed #44288 interval=1.00s cpu=12 net_up=266708 net_down=18195
+2026-07-15 22:21:32,741 [INFO] data refreshed #44298 interval=1.00s cpu=6 net_up=14466 net_down=13609
+2026-07-15 22:21:35,531 [INFO] force show hwnd=264792 visible=True rect=(1559,17,352,364)
+2026-07-15 22:21:43,738 [INFO] data refreshed #44309 interval=1.00s cpu=4 net_up=13289 net_down=12565
+2026-07-15 22:21:53,741 [INFO] data refreshed #44319 interval=1.00s cpu=7 net_up=16645 net_down=15857
+2026-07-15 22:22:04,746 [INFO] data refreshed #44330 interval=1.01s cpu=10 net_up=293348 net_down=20202
+2026-07-15 22:22:10,523 [INFO] force show hwnd=264792 visible=True rect=(1559,17,352,364)
+2026-07-15 22:22:15,746 [INFO] data refreshed #44341 interval=1.00s cpu=11 net_up=235209 net_down=14229
+2026-07-15 22:22:25,745 [INFO] data refreshed #44351 interval=1.00s cpu=11 net_up=352037 net_down=14772
+2026-07-15 22:22:36,734 [INFO] data refreshed #44362 interval=1.00s cpu=11 net_up=19678 net_down=17792
+2026-07-15 22:22:40,535 [INFO] force show hwnd=264792 visible=True rect=(1559,17,352,364)
+2026-07-15 22:22:46,731 [INFO] data refreshed #44372 interval=0.99s cpu=13 net_up=48337 net_down=489592
+2026-07-15 22:22:57,738 [INFO] data refreshed #44383 interval=1.00s cpu=10 net_up=48015 net_down=14181
+2026-07-15 22:23:08,738 [INFO] data refreshed #44394 interval=1.01s cpu=8 net_up=24984 net_down=17285
+2026-07-15 22:23:15,532 [INFO] force show hwnd=264792 visible=True rect=(1559,17,352,364)
+2026-07-15 22:23:19,737 [INFO] data refreshed #44405 interval=1.00s cpu=7 net_up=15598 net_down=14869
+2026-07-15 22:23:29,742 [INFO] data refreshed #44415 interval=1.00s cpu=21 net_up=25960 net_down=14399
+2026-07-15 22:23:40,743 [INFO] data refreshed #44426 interval=1.00s cpu=5 net_up=20843 net_down=19148
+2026-07-15 22:23:50,535 [INFO] force show hwnd=264792 visible=True rect=(1559,17,352,364)
+2026-07-15 22:23:51,739 [INFO] data refreshed #44437 interval=1.01s cpu=10 net_up=276444 net_down=13162
+2026-07-15 22:24:02,740 [INFO] data refreshed #44448 interval=1.00s cpu=9 net_up=269625 net_down=19367
+2026-07-15 22:24:12,744 [INFO] data refreshed #44458 interval=1.00s cpu=15 net_up=284645 net_down=20151
+2026-07-15 22:24:20,538 [INFO] force show hwnd=264792 visible=True rect=(1559,17,352,364)
+2026-07-15 22:24:22,747 [INFO] data refreshed #44468 interval=1.01s cpu=15 net_up=106536 net_down=13213
+2026-07-15 22:24:33,763 [INFO] data refreshed #44479 interval=1.01s cpu=14 net_up=103182 net_down=16778
+2026-07-15 22:24:44,733 [INFO] data refreshed #44490 interval=0.99s cpu=12 net_up=119158 net_down=16306
+2026-07-15 22:24:54,739 [INFO] data refreshed #44500 interval=1.00s cpu=11 net_up=131482 net_down=19280
+2026-07-15 22:24:55,534 [INFO] force show hwnd=264792 visible=True rect=(1559,17,352,364)
+2026-07-15 22:25:05,741 [INFO] data refreshed #44511 interval=1.01s cpu=12 net_up=175112 net_down=15416
+2026-07-15 22:25:16,739 [INFO] data refreshed #44522 interval=1.00s cpu=11 net_up=253828 net_down=14086
+2026-07-15 22:25:27,741 [INFO] data refreshed #44533 interval=1.01s cpu=12 net_up=265668 net_down=18389
+2026-07-15 22:25:30,521 [INFO] force show hwnd=264792 visible=True rect=(1559,17,352,364)
+2026-07-15 22:25:38,746 [INFO] data refreshed #44544 interval=1.00s cpu=9 net_up=257640 net_down=16684
+2026-07-15 22:25:49,741 [INFO] data refreshed #44555 interval=1.00s cpu=11 net_up=259906 net_down=18503
+2026-07-15 22:26:00,537 [INFO] force show hwnd=264792 visible=True rect=(1559,17,352,364)
+2026-07-15 22:26:00,739 [INFO] data refreshed #44566 interval=1.00s cpu=13 net_up=298062 net_down=13142
+2026-07-15 22:26:11,743 [INFO] data refreshed #44577 interval=1.01s cpu=11 net_up=253703 net_down=25014
+2026-07-15 22:26:21,744 [INFO] data refreshed #44587 interval=1.01s cpu=9 net_up=247717 net_down=23157
+2026-07-15 22:26:30,550 [INFO] force show hwnd=264792 visible=True rect=(1559,17,352,364)
+2026-07-15 22:26:31,746 [INFO] data refreshed #44597 interval=1.01s cpu=13 net_up=249718 net_down=18808
+2026-07-15 22:26:42,733 [INFO] data refreshed #44608 interval=1.00s cpu=20 net_up=455509 net_down=15928
+2026-07-15 22:26:52,739 [INFO] data refreshed #44618 interval=0.99s cpu=13 net_up=18494 net_down=18013
+2026-07-15 22:27:02,745 [INFO] data refreshed #44628 interval=1.01s cpu=5 net_up=18686 net_down=26207
+2026-07-15 22:27:05,539 [INFO] force show hwnd=264792 visible=True rect=(1559,17,352,364)
+2026-07-15 22:27:13,741 [INFO] data refreshed #44639 interval=1.00s cpu=12 net_up=17175 net_down=16974
+2026-07-15 22:27:24,736 [INFO] data refreshed #44650 interval=0.99s cpu=20 net_up=280486 net_down=20931
+2026-07-15 22:27:34,744 [INFO] data refreshed #44660 interval=1.01s cpu=11 net_up=259071 net_down=16437
+2026-07-15 22:27:35,539 [INFO] force show hwnd=264792 visible=True rect=(1559,17,352,364)
+2026-07-15 22:27:45,733 [INFO] data refreshed #44671 interval=1.00s cpu=15 net_up=242360 net_down=18459
+2026-07-15 22:27:56,739 [INFO] data refreshed #44682 interval=1.01s cpu=14 net_up=244349 net_down=4976
+2026-07-15 22:28:05,554 [INFO] force show hwnd=264792 visible=True rect=(1559,17,352,364)
+2026-07-15 22:28:07,734 [INFO] data refreshed #44693 interval=1.00s cpu=14 net_up=231600 net_down=16125
+2026-07-15 22:28:18,736 [INFO] data refreshed #44704 interval=1.00s cpu=6 net_up=17280 net_down=22911
+2026-07-15 22:28:29,734 [INFO] data refreshed #44715 interval=0.99s cpu=11 net_up=24000 net_down=17286
+2026-07-15 22:28:35,561 [INFO] force show hwnd=264792 visible=True rect=(1559,17,352,364)
+2026-07-15 22:28:40,747 [INFO] data refreshed #44726 interval=1.01s cpu=25 net_up=361900 net_down=15670
+2026-07-15 22:28:50,756 [INFO] data refreshed #44736 interval=1.01s cpu=18 net_up=321008 net_down=18649
+2026-07-15 22:29:01,745 [INFO] data refreshed #44747 interval=1.00s cpu=15 net_up=241239 net_down=16234
+2026-07-15 22:29:10,554 [INFO] force show hwnd=264792 visible=True rect=(1559,17,352,364)
+2026-07-15 22:29:12,765 [INFO] data refreshed #44758 interval=1.01s cpu=16 net_up=235234 net_down=16585
+2026-07-15 22:29:23,737 [INFO] data refreshed #44769 interval=1.00s cpu=13 net_up=134249 net_down=19357
+2026-07-15 22:29:33,747 [INFO] data refreshed #44779 interval=1.00s cpu=6 net_up=13832 net_down=14904
+2026-07-15 22:29:40,566 [INFO] force show hwnd=264792 visible=True rect=(1559,17,352,364)
+2026-07-15 22:29:44,742 [INFO] data refreshed #44790 interval=1.01s cpu=6 net_up=20773 net_down=22779
+2026-07-15 22:29:55,735 [INFO] data refreshed #44801 interval=0.99s cpu=14 net_up=16882 net_down=15011
+2026-07-15 22:30:05,739 [INFO] data refreshed #44811 interval=1.00s cpu=6 net_up=18102 net_down=18084
+2026-07-15 22:30:15,568 [INFO] force show hwnd=264792 visible=True rect=(1559,17,352,364)
+2026-07-15 22:30:15,745 [INFO] data refreshed #44821 interval=1.00s cpu=6 net_up=14646 net_down=13389
+2026-07-15 22:30:25,756 [INFO] data refreshed #44831 interval=1.00s cpu=5 net_up=12605 net_down=11154
+2026-07-15 22:30:35,758 [INFO] data refreshed #44841 interval=1.00s cpu=6 net_up=16071 net_down=15388
+2026-07-15 22:30:46,763 [INFO] data refreshed #44852 interval=1.01s cpu=6 net_up=15709 net_down=15430
+2026-07-15 22:30:50,568 [INFO] force show hwnd=264792 visible=True rect=(1559,17,352,364)
+2026-07-15 22:30:56,804 [INFO] data refreshed #44862 interval=1.01s cpu=14 net_up=21945 net_down=14289
+2026-07-15 22:31:07,797 [INFO] data refreshed #44873 interval=0.99s cpu=10 net_up=13203 net_down=14418
+2026-07-15 22:31:17,806 [INFO] data refreshed #44883 interval=1.00s cpu=8 net_up=19376 net_down=24522
+2026-07-15 22:31:25,555 [INFO] force show hwnd=264792 visible=True rect=(1559,17,352,364)
+2026-07-15 22:31:28,807 [INFO] data refreshed #44894 interval=1.00s cpu=8 net_up=33968 net_down=27104
+2026-07-15 22:31:39,807 [INFO] data refreshed #44905 interval=1.01s cpu=5 net_up=17465 net_down=17992
+2026-07-15 22:31:49,809 [INFO] data refreshed #44915 interval=1.01s cpu=10 net_up=20251 net_down=21588
+2026-07-15 22:31:55,567 [INFO] force show hwnd=264792 visible=True rect=(1559,17,352,364)
+2026-07-15 22:31:59,811 [INFO] data refreshed #44925 interval=1.00s cpu=23 net_up=336620 net_down=52460
+2026-07-15 22:32:09,834 [INFO] data refreshed #44935 interval=1.00s cpu=20 net_up=317554 net_down=34855
+2026-07-15 22:32:20,826 [INFO] data refreshed #44946 interval=1.00s cpu=10 net_up=302800 net_down=17343
+2026-07-15 22:32:30,568 [INFO] force show hwnd=264792 visible=True rect=(1559,17,352,364)
+2026-07-15 22:32:31,840 [INFO] data refreshed #44957 interval=1.01s cpu=12 net_up=288446 net_down=18839
+2026-07-15 22:32:42,831 [INFO] data refreshed #44968 interval=1.01s cpu=12 net_up=292839 net_down=23684
+2026-07-15 22:32:52,858 [INFO] data refreshed #44978 interval=1.01s cpu=11 net_up=351530 net_down=21304
+2026-07-15 22:33:03,861 [INFO] data refreshed #44989 interval=1.01s cpu=8 net_up=297006 net_down=20783
+2026-07-15 22:33:05,565 [INFO] force show hwnd=264792 visible=True rect=(1559,17,352,364)
+2026-07-15 22:33:14,850 [INFO] data refreshed #45000 interval=1.01s cpu=18 net_up=299473 net_down=28809
+2026-07-15 22:33:25,861 [INFO] data refreshed #45011 interval=1.01s cpu=16 net_up=331785 net_down=33931
+2026-07-15 22:33:35,568 [INFO] force show hwnd=264792 visible=True rect=(1559,17,352,364)
+2026-07-15 22:33:36,858 [INFO] data refreshed #45022 interval=1.01s cpu=8 net_up=287613 net_down=19023
+2026-07-15 22:33:46,869 [INFO] data refreshed #45032 interval=1.00s cpu=13 net_up=364129 net_down=20642
+2026-07-15 22:33:56,870 [INFO] data refreshed #45042 interval=1.01s cpu=14 net_up=347003 net_down=30749
+2026-07-15 22:34:07,860 [INFO] data refreshed #45053 interval=1.00s cpu=17 net_up=353391 net_down=31442
+2026-07-15 22:34:10,566 [INFO] force show hwnd=264792 visible=True rect=(1559,17,352,364)
+2026-07-15 22:34:17,861 [INFO] data refreshed #45063 interval=1.01s cpu=31 net_up=351655 net_down=35965
+2026-07-15 22:34:28,861 [INFO] data refreshed #45074 interval=1.00s cpu=13 net_up=331824 net_down=33447
+2026-07-15 22:34:38,872 [INFO] data refreshed #45084 interval=0.99s cpu=12 net_up=26527 net_down=32124
+2026-07-15 22:34:45,566 [INFO] force show hwnd=264792 visible=True rect=(1559,17,352,364)
+2026-07-15 22:34:48,877 [INFO] data refreshed #45094 interval=1.01s cpu=8 net_up=281799 net_down=16042
+2026-07-15 22:34:59,880 [INFO] data refreshed #45105 interval=1.01s cpu=10 net_up=295143 net_down=16512
+2026-07-15 22:35:10,857 [INFO] data refreshed #45116 interval=0.99s cpu=15 net_up=302873 net_down=19117
+2026-07-15 22:35:20,570 [INFO] force show hwnd=264792 visible=True rect=(1559,17,352,364)
+2026-07-15 22:35:20,882 [INFO] data refreshed #45126 interval=1.01s cpu=18 net_up=293579 net_down=15114
+2026-07-15 22:35:30,872 [INFO] data refreshed #45136 interval=0.99s cpu=17 net_up=26515 net_down=17551
+2026-07-15 22:35:40,890 [INFO] data refreshed #45146 interval=1.01s cpu=7 net_up=45564 net_down=21132
+2026-07-15 22:35:50,898 [INFO] data refreshed #45156 interval=1.00s cpu=5 net_up=21113 net_down=24807
+2026-07-15 22:35:55,559 [INFO] force show hwnd=264792 visible=True rect=(1559,17,352,364)
+2026-07-15 22:36:00,910 [INFO] data refreshed #45166 interval=1.01s cpu=20 net_up=22140 net_down=19532
+2026-07-15 22:36:10,917 [INFO] data refreshed #45176 interval=1.01s cpu=14 net_up=285927 net_down=16035
+2026-07-15 22:36:21,909 [INFO] data refreshed #45187 interval=1.00s cpu=17 net_up=32765 net_down=41912
+2026-07-15 22:36:25,561 [INFO] force show hwnd=264792 visible=True rect=(1559,17,352,364)
+2026-07-15 22:36:31,907 [INFO] data refreshed #45197 interval=0.99s cpu=16 net_up=15351 net_down=14496
+2026-07-15 22:36:42,912 [INFO] data refreshed #45208 interval=1.01s cpu=21 net_up=35655 net_down=16521
+2026-07-15 22:36:53,911 [INFO] data refreshed #45219 interval=1.01s cpu=12 net_up=279655 net_down=13941
+2026-07-15 22:36:55,568 [INFO] force show hwnd=264792 visible=True rect=(1559,17,352,364)
+2026-07-15 22:37:04,908 [INFO] data refreshed #45230 interval=0.99s cpu=11 net_up=255766 net_down=21563
+2026-07-15 22:37:14,907 [INFO] data refreshed #45240 interval=0.99s cpu=11 net_up=249481 net_down=18358
+2026-07-15 22:37:25,580 [INFO] force show hwnd=264792 visible=True rect=(1559,17,352,364)
+2026-07-15 22:37:25,918 [INFO] data refreshed #45251 interval=1.01s cpu=13 net_up=247723 net_down=14384
+2026-07-15 22:37:36,905 [INFO] data refreshed #45262 interval=1.00s cpu=12 net_up=249749 net_down=12467
+2026-07-15 22:37:46,906 [INFO] data refreshed #45272 interval=1.00s cpu=9 net_up=254367 net_down=13889
+2026-07-15 22:37:56,907 [INFO] data refreshed #45282 interval=0.99s cpu=10 net_up=255816 net_down=14473
+2026-07-15 22:38:00,575 [INFO] force show hwnd=264792 visible=True rect=(1559,17,352,364)
+2026-07-15 22:38:06,915 [INFO] data refreshed #45292 interval=1.01s cpu=16 net_up=323098 net_down=22763
+2026-07-15 22:38:17,906 [INFO] data refreshed #45303 interval=1.00s cpu=9 net_up=263230 net_down=14997
