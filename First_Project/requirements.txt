@@ -1,0 +1,5 @@
+PyQt5==5.15.9
+psutil==5.9.6
+pywin32==306
+GPUtil==1.4.0
+setuptools>=68.0.0

@@ -1,0 +1,24 @@
+{
+  "refresh_interval": 1,
+  "opacity": 100,
+  "auto_start": false,
+  "theme": "娣辫壊",
+  "size": "中型",
+  "layout": "square",
+  "layout_positions": {
+    "square": [
+      1552,
+      11
+    ],
+    "horizontal": [
+      1079,
+      11
+    ]
+  },
+  "selected_disks": [],
+  "position": [
+    1552,
+    11
+  ],
+  "desktop_mode": true
+}
